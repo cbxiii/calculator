@@ -9,7 +9,7 @@ int main() {
     double result;
 
     // get operator
-    printf("Please enter one of the following operators: (+) (-) (*) (/) ");
+    printf("Please enter one of the following operators: (+) (-) (*) (/) --> ");
     scanf("%c", &operator);
 
     // calculate result based on operator
